@@ -1,0 +1,16 @@
+.DS_Store
+core/
+Release/
+sloeber.ino.cpp
+spec.d
+
+*.pyc
+*.gch
+
+boards.local.txt
+
+*.gcov
+*.gcno
+*.gcda
+*.o
+*.a
